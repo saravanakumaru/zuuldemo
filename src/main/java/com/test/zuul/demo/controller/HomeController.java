@@ -1,4 +1,4 @@
-package com.rakuten.zuul.gateway.controller;
+package com.test.zuul.demo.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

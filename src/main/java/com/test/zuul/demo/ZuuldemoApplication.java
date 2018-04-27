@@ -1,4 +1,4 @@
-package com.rakuten.zuul.gateway;
+package com.test.zuul.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
